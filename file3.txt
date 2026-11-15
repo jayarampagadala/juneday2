@@ -1,3 +1,6 @@
 This is is my file3
 
 i have modified line3 in file3 
+git
+
+i wrote a code on f3 it is working fine 
